@@ -1,0 +1,36 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Yellow",
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        {
+          "slug": "primary",
+          "color": "#8B6505",
+          "name": "Primary"
+        },
+        {
+          "slug": "secondary",
+          "color": "#67abe1",
+          "name": "Secondary"
+        },
+        {
+          "slug": "button-hover",
+          "color": "#8b650566",
+          "name": "Button Hover"
+        },
+        {
+          "slug": "foreground",
+          "color": "#000",
+          "name": "Foreground"
+        },
+        {
+          "slug": "background",
+          "color": "#f9f2e0",
+          "name": "Background"
+        }
+      ]
+    }
+  }
+}

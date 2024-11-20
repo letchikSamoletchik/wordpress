@@ -1,0 +1,443 @@
+
+------
+[INFO] Prepare remote import
+
+
+---Downloaded files---
+The import files for: https://s3.us-west-2.amazonaws.com/static-assets.kubiobuilder.com/demo-sites/production/nutrition-free/content.kds were successfully downloaded!
+
+------
+[INFO] Executing before import step: init
+
+
+------
+[INFO] Executing before import step: prepare_templates
+
+
+------
+[INFO] Executing before import step: prepare_template_parts
+
+
+------
+[INFO] Executing before import step: prepare_menus
+
+
+------
+[INFO] Executing before import step: prepare_pages
+
+
+------
+[INFO] Imported "Uncategorized" (category)
+
+
+------
+[INFO] Imported "Primary menu" (nav_menu)
+
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[INFO] Imported "Home" (Элемент меню навигации)
+
+
+------
+[INFO] Imported "" (Элемент меню навигации)
+
+
+------
+[INFO] Imported "" (Элемент меню навигации)
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-6-4.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-6-v.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "alexander-mils-5X8oLkzZ1fI-unsplash-1024x683-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "alexandra-andersson-si4-pd-eeJs-unsplash-819x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "alisa-golovinska-PqiucwQwZQg-unsplash-scaled-e1636464262171-886x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "dose-juice-sTPy-oeA3h0-unsplash-scaled-e1636460981951-1024x819-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "monika-grabkowska-mha2dvydACg-unsplash-scaled-e1636464221533-706x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "abillion-BlQc1APEaL0-unsplash-1024x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "alexandra-golovac-hTI5A21l0bk-unsplash-683x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "edgar-castrejon-J04BD4ysoh8-unsplash-819x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "hermes-rivera-OzBLe_Eg1mg-unsplash-scaled-e1636468433944-1024x1008-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "plant-oEvgjgawbDA-unsplash-1024x683-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "taylor-kiser-iiQZcCtfpyk-unsplash-796x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "the-creative-exchange-YRSRQpBfsj4-unsplash-scaled-e1636468363727-967x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "kubio-featured-image", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "colibri-default-attachment", fetching attachments disabled
+
+
+------
+[INFO] Imported "Privacy Policy" (Страница)
+
+
+------
+[INFO] Imported "Blog" (Страница)
+
+
+------
+[INFO] Imported "Lorem ipsum" (Запись)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Запись)
+
+
+------
+[INFO] Imported "Lorem Ipsum" (Запись)
+
+
+------
+[INFO] Imported "Front Page" (Шаблон)
+
+
+------
+[INFO] Imported "Full Width" (Шаблон)
+
+
+------
+[INFO] Imported "Index" (Шаблон)
+
+
+------
+[INFO] Imported "Page" (Шаблон)
+
+
+------
+[INFO] Imported "Search" (Шаблон)
+
+
+------
+[INFO] Imported "Single Product" (Шаблон)
+
+
+------
+[INFO] Imported "Single Post" (Шаблон)
+
+
+------
+[INFO] Imported "Sample Page" (Страница)
+
+
+------
+[INFO] Imported "Privacy Policy" (Страница)
+
+
+------
+[INFO] Imported "Contact" (Страница)
+
+
+------
+[INFO] Imported "Front Page" (Страница)
+
+
+------
+[INFO] New AJAX call!
+
+
+------
+[WARNING] Failed to import "": Invalid post type 
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-6-4.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "logoipsum-logo-6-v.png", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "alexander-mils-5X8oLkzZ1fI-unsplash-1024x683-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "alexandra-andersson-si4-pd-eeJs-unsplash-819x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "alisa-golovinska-PqiucwQwZQg-unsplash-scaled-e1636464262171-886x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "dose-juice-sTPy-oeA3h0-unsplash-scaled-e1636460981951-1024x819-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "monika-grabkowska-mha2dvydACg-unsplash-scaled-e1636464221533-706x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "abillion-BlQc1APEaL0-unsplash-1024x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "alexandra-golovac-hTI5A21l0bk-unsplash-683x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "edgar-castrejon-J04BD4ysoh8-unsplash-819x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "hermes-rivera-OzBLe_Eg1mg-unsplash-scaled-e1636468433944-1024x1008-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "plant-oEvgjgawbDA-unsplash-1024x683-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "taylor-kiser-iiQZcCtfpyk-unsplash-796x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "the-creative-exchange-YRSRQpBfsj4-unsplash-scaled-e1636468363727-967x1024-1.jpeg", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "kubio-featured-image", fetching attachments disabled
+
+
+------
+[NOTICE] Skipping attachment "colibri-default-attachment", fetching attachments disabled
+
+
+------
+[INFO] Imported "404" (Шаблон)
+
+
+------
+[INFO] Imported "Archive Product" (Шаблон)
+
+
+------
+[INFO] Imported "Page With Left Sidebar" (Шаблон)
+
+
+------
+[INFO] Imported "Custom Styles" (Глобальные стили)
+
+
+------
+[INFO] Imported "Contact form 1" (Форма)
+
+
+------
+[INFO] Imported "Footer" (Часть шаблона)
+
+
+------
+[INFO] Imported "Front Header" (Часть шаблона)
+
+
+------
+[INFO] Imported "Header" (Часть шаблона)
+
+
+------
+[INFO] Imported "Sidebar" (Часть шаблона)
+
+
+------
+[INFO] Imported "Contact form 1" (Форма)
+
+
+------
+[INFO] Imported "Front Page-footer" (Часть шаблона)
+
+
+------
+[INFO] Imported "Page With Right Sidebar" (Шаблон)
+
+
+------
+[INFO] Imported "Page Sidebar" (Часть шаблона)
+
+
+------
+[INFO] Posts post processing
+
+
+------
+[INFO] Create term `elevate-wp` in `wp_theme`
+
+
+------
+[WARNING] Could not find the author for "Home" (post #82)
+
+
+------
+[WARNING] Could not find the author for "" (post #83)
+
+
+------
+[WARNING] Could not find the author for "" (post #113)
+
+
+------
+[WARNING] Could not find the author for "Privacy Policy" (post #114)
+
+
+------
+[WARNING] Could not find the author for "Blog" (post #115)
+
+
+------
+[WARNING] Could not find the author for "Lorem ipsum" (post #116)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #117)
+
+
+------
+[WARNING] Could not find the author for "Lorem Ipsum" (post #118)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #119)
+
+
+------
+[WARNING] Could not find the author for "Full Width" (post #120)
+
+
+------
+[WARNING] Could not find the author for "Index" (post #121)
+
+
+------
+[WARNING] Could not find the author for "Page" (post #122)
+
+
+------
+[WARNING] Could not find the author for "Search" (post #123)
+
+
+------
+[WARNING] Could not find the author for "Single Product" (post #124)
+
+
+------
+[WARNING] Could not find the author for "Single Post" (post #125)
+
+
+------
+[WARNING] Could not find the author for "Sample Page" (post #126)
+
+
+------
+[WARNING] Could not find the author for "Privacy Policy" (post #127)
+
+
+------
+[WARNING] Could not find the author for "Contact" (post #111)
+
+
+------
+[WARNING] Could not find the author for "Front Page" (post #138)
+
+
+------
+[WARNING] Could not find the author for "404" (post #140)
+
+
+------
+[WARNING] Could not find the author for "Archive Product" (post #141)
+
+
+------
+[WARNING] Could not find the author for "Page With Left Sidebar" (post #228)
+
+
+------
+[WARNING] Could not find the author for "Custom Styles" (post #233)
+
+
+------
+[WARNING] Could not find the author for "Contact form 1" (post #234)
+
+
+------
+[WARNING] Could not find the author for "Footer" (post #235)
+
+
+------
+[WARNING] Could not find the author for "Front Header" (post #237)
+
+
+------
+[WARNING] Could not find the author for "Header" (post #238)
+
+
+------
+[WARNING] Could not find the author for "Sidebar" (post #239)
+
+
+------
+[WARNING] Could not find the author for "Contact form 1" (post #240)
+
+
+------
+[WARNING] Could not find the author for "Front Page-footer" (post #209)
+
+
+------
+[WARNING] Could not find the author for "Page With Right Sidebar" (post #229)
+
+
+------
+[WARNING] Could not find the author for "Page Sidebar" (post #230)
+
+
+------
+[INFO] Starting remapping of featured images
+

@@ -1,0 +1,389 @@
+# Translation of Themes - Riverbank in Russian
+# This file is distributed under the same license as the Themes - Riverbank package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-09-05 18:50:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Riverbank\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Riverbank is a highly customizable and user-friendly WordPress theme that is optimized for search engines and fully compatible with the Gutenberg editor and popular page builder plugins. With support for WooCommerce, translation into other languages, and a responsive design, Riverbank is suitable for a variety of websites including blogs, small businesses, and online shops."
+msgstr "Riverbank — это легко настраиваемая и удобная тема WordPress, оптимизированная для поисковых систем и полностью совместимая с редактором Gutenberg и популярными плагинами для построения страниц. Благодаря поддержке WooCommerce, переводу на другие языки и отзывчивому дизайну, Riverbank подходит для различных сайтов, включая блоги, малые предприятия и интернет-магазины."
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Riverbank"
+msgstr "Riverbank"
+
+#: styles/light-orange.json
+msgctxt "Style variation name"
+msgid "Light Orange"
+msgstr "Светло-оранжевый"
+
+#: styles/eco-friendly.json
+msgctxt "Style variation name"
+msgid "Eco-friendly"
+msgstr "Экологически чистый"
+
+#: styles/deep-emerald.json
+msgctxt "Style variation name"
+msgid "Deep Emerald"
+msgstr "Глубокий изумруд"
+
+#: styles/dark-orange.json
+msgctxt "Style variation name"
+msgid "Dark Orange"
+msgstr "Темно-оранжевый"
+
+#: styles/blue-river.json
+msgctxt "Style variation name"
+msgid "Blue River"
+msgstr "Синяя река"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Нижняя часть"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr "Акцент"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Foreground Alt"
+msgstr "Альтернативный передний план"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Background Dark"
+msgstr "Фоновый темный"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Background Alt"
+msgstr "Альтернативный фон"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний план"
+
+#: styles/blue-river.json styles/dark-orange.json styles/deep-emerald.json
+#: styles/eco-friendly.json styles/light-orange.json theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr "Lora"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Outfit"
+msgstr "Outfit"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Figtree"
+msgstr "Figtree"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Source Serif Pro"
+msgstr "Source Serif Pro"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Fraunces"
+msgstr "Fraunces"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Огромный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Очень большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Обычный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: inc/patterns/section-with-covers-and-text.php:44
+msgid "Full-width section with covers and text"
+msgstr "Секция в полную ширину с обложкой и текстом"
+
+#: inc/patterns/quote-section.php:16
+msgid "Quote"
+msgstr "Цитата"
+
+#: inc/patterns/pricing-plans-row.php:87
+msgid "Get started with a premium plan"
+msgstr "Начните работу с премиум-планом"
+
+#: inc/patterns/pricing-plans-row.php:77
+msgid "Row with pricing plans"
+msgstr "Ряд с тарифными планами"
+
+#: inc/patterns/pricing-plans-row.php:21
+msgid "Premium"
+msgstr "Премиум"
+
+#: inc/patterns/pricing-plans-row.php:17
+msgid "Basic"
+msgstr "Базовый"
+
+#: inc/patterns/pricing-plans-columns.php:84
+msgid "Columns of pricing plans"
+msgstr "Столбцы с тарифными планами"
+
+#: inc/patterns/pricing-plans-columns.php:26
+msgid "Yearly"
+msgstr "Ежегодно"
+
+#: inc/patterns/pricing-plans-columns.php:22
+msgid "Monthly"
+msgstr "Ежемесячно"
+
+#: inc/patterns/pricing-plans-columns.php:18
+msgid "Weekly"
+msgstr "Еженедельно"
+
+#: inc/patterns/posts-grid.php:59
+msgid "Unfortunately no posts were found"
+msgstr "К сожалению, публикации не найдены"
+
+#: inc/patterns/posts-grid.php:16
+msgid "Posts grid"
+msgstr "Сетка записей"
+
+#: inc/patterns/hero-with-image-columns.php:71
+msgid "A Minimal & Organic Theme"
+msgstr "Минимальная и органичная тема"
+
+#: inc/patterns/hero-with-image-columns.php:53
+msgid "Hero with image columns"
+msgstr "Герой с колонками для изображений"
+
+#: inc/patterns/hero-with-image-columns.php:28
+msgid "Style variations"
+msgstr "Вариации стиля"
+
+#: inc/patterns/hero-with-feature-columns.php:48
+msgid "Hero section with feature columns"
+msgstr "Раздел \"Герой\" с колонками характеристик"
+
+#: inc/patterns/hero-with-feature-columns.php:19
+#: inc/patterns/hero-with-image-columns.php:24
+msgid "Patterns"
+msgstr "Паттерны"
+
+#: inc/patterns/hero-with-feature-columns.php:18
+#: inc/patterns/hero-with-image-columns.php:20
+msgid "FSE Templates"
+msgstr "Шаблоны FSE"
+
+#: inc/patterns/full-width-columns-with-text-and-cover.php:20
+msgid "Full width columns with text and cover"
+msgstr "Столбцы во всю ширину с текстом и обложкой"
+
+#: inc/patterns/feature-grid.php:38
+msgid "Features grid"
+msgstr "Сетка возможностей"
+
+#: inc/patterns/feature-grid.php:20
+msgid "Feature"
+msgstr "Особенность"
+
+#: inc/patterns/columns-with-images-and-buttons.php:67
+msgid "Columns with images and buttons"
+msgstr "Столбцы с изображениями и кнопками"
+
+#: inc/patterns/columns-with-images-and-buttons.php:28
+msgid "Powered by blocks"
+msgstr "Работает на основе блоков"
+
+#: inc/patterns/columns-with-images-and-buttons.php:24
+msgid "Built-in Patterns"
+msgstr "Встроенные шаблоны"
+
+#: inc/patterns/columns-with-images-and-buttons.php:20
+#: inc/patterns/hero-with-feature-columns.php:20
+msgid "Style Variations"
+msgstr "Вариации стиля"
+
+#: inc/patterns/columns-with-image-title-and-text.php:47
+msgid "Columns with image, title and text"
+msgstr "Столбцы с изображением, заголовком и текстом"
+
+#: inc/patterns/call-to-action-inverted.php:23
+msgid "Before we even knew it, we were off the ground"
+msgstr "Мы даже не успели опомниться, как оторвались от земли."
+
+#: inc/patterns/call-to-action-inverted.php:16
+msgid "Call to action"
+msgstr "Призыв к действию"
+
+#: inc/patterns/call-to-action-inverted-inline.php:36
+msgid "Learn more"
+msgstr "Подробнее"
+
+#: inc/patterns/call-to-action-inverted-inline.php:16
+msgid "Call to action inline"
+msgstr "Призыв к действию в линию"
+
+#: inc/patterns/boxed-image-features-with-buttons.php:73
+#: inc/patterns/pricing-plans-columns.php:98
+msgid "This is a description for the section"
+msgstr "Это описание для раздела"
+
+#: inc/patterns/boxed-image-features-with-buttons.php:53
+msgid "Boxed image features with buttons"
+msgstr "Блочные изображения особенностей с кнопками"
+
+#: inc/patterns/boxed-image-features-with-buttons.php:44
+msgid "Feature three"
+msgstr "Особенность три"
+
+#: inc/patterns/boxed-image-features-with-buttons.php:43
+msgid "Feature two"
+msgstr "Особенность два"
+
+#: inc/patterns/boxed-image-features-with-buttons.php:42
+msgid "Feature one"
+msgstr "Особенность один"
+
+#: inc/patterns/boxed-columns-with-text-image-and-buttons.php:38
+#: inc/patterns/boxed-columns-with-text-image-and-buttons.php:66
+#: inc/patterns/call-to-action-inverted.php:33
+#: inc/patterns/columns-with-images-and-buttons.php:51
+msgid "Button"
+msgstr "Кнопка"
+
+#: inc/patterns/boxed-columns-with-text-image-and-buttons.php:28
+#: inc/patterns/boxed-columns-with-text-image-and-buttons.php:56
+msgid "Heading"
+msgstr "Заголовок"
+
+#: inc/patterns/boxed-columns-with-text-image-and-buttons.php:18
+msgid "Boxed columns with text, image and buttons"
+msgstr "Блочные столбцы с текстом, изображением и кнопками"
+
+#: inc/Core.php:90
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: inc/Block_Patterns.php:62
+msgid "Riverbank Patterns"
+msgstr "Шаблоны Riverbank"
+
+#: inc/Admin.php:65 inc/Admin.php:186
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:181
+msgid "Install & Activate %s"
+msgstr "Установить и активировать %s"
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:179
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: inc/Admin.php:169
+msgid "Otter is a Gutenberg Blocks page builder plugin that adds extra functionality to the WordPress Block Editor (also known as Gutenberg) for a better page building experience without the need for traditional page builders."
+msgstr "Otter - это плагин для построения страниц Gutenberg Blocks, который добавляет дополнительную функциональность в редактор блоков WordPress (также известный как Gutenberg) для лучшего построения страниц без необходимости использования традиционных конструкторов страниц."
+
+#. translators: %s: Otter Blocks
+#: inc/Admin.php:165
+msgid "Power up your website building experience with %s!"
+msgstr "Усильте свой опыт создания сайтов с %s!"
+
+#: inc/Admin.php:159
+msgid "Otter Blocks preview"
+msgstr "Предварительный просмотр Otter Blocks"
+
+#: inc/Admin.php:151
+msgid "Done"
+msgstr "Готово"
+
+#: inc/Admin.php:150
+msgid "Installing"
+msgstr "Установка"
+
+#: inc/Admin.php:149
+msgid "Activating"
+msgstr "Активация"
+
+#. translators: %s: commands to run the theme
+#: functions.php:105
+msgid "You appear to be running the Riverbank theme from source code. Please finish installation by running %s."
+msgstr "Похоже, вы запускаете тему Riverbank из исходного кода. Пожалуйста, завершите установку, запустив %s."
+
+#: functions.php:57
+msgid "upgrading PHP to the latest version"
+msgstr "обновление PHP до последней версии"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:53
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %1$s. Riverbank's minimal requirement is PHP%2$s."
+msgstr "Эй, мы заметили, что вы запустили устаревшую версию PHP, которая больше не поддерживается. Убедитесь, что ваш сайт работает быстро и безопасно %1$s. Минимальное требование для Riverbank - PHP%2$s."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themeisle.com/themes/riverbank/"
+msgstr "https://themeisle.com/themes/riverbank/"

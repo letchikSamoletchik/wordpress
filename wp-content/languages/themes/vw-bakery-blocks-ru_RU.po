@@ -1,0 +1,1418 @@
+# Translation of Themes - VW Bakery Blocks in Russian
+# This file is distributed under the same license as the Themes - VW Bakery Blocks package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-13 13:15:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - VW Bakery Blocks\n"
+
+#. Theme Name of the theme
+#: style.css inc/core/theme-info.php:7
+#, gp-priority: high
+msgid "VW Bakery Blocks"
+msgstr "VW Bakery Blocks"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Bakery Theme is a clean and beautiful WordPress theme that can be used for any kind of food blog, bakery, boxed, bread or cake, as well as eCommerce stores. The theme comes with many options and features that allow you to easily customize it to suit your needs. Your site will look amazing on any device, thanks to its Gutenberg plugin. The theme also features interactive elements and customizable options, as well as a beautiful testimonial section. This theme is perfect for creating a bakery blog or bakery shop. This theme is great for anyone who wants to sell baking products online. This theme features a sophisticated design, as well as many useful features that will help you to sell your products. It is responsive and includes bootstrap, which looks great on all devices. It also has short codes. You can use it by any chef or baker. Baker is the perfect theme for all you sweet lovers. This theme is modern and has many great homepages. It also includes a wonderful collection of inner pages. Demo: https://www.vwthemes.net/vw-bakery-blocks/"
+msgstr "Bakery Theme — это чистая и красивая тема WordPress, которую можно использовать для любого блога о еде, пекарни, коробки, хлеба или торта, а также для магазинов электронной коммерции. Тема поставляется с множеством опций и функций, которые позволяют легко настроить ее в соответствии с вашими потребностями. Ваш сайт будет выглядеть потрясающе на любом устройстве благодаря плагину Gutenberg. Тема также содержит интерактивные элементы и настраиваемые параметры, а также красивый раздел отзывов. Эта тема идеально подходит для создания блога о пекарне или пекарни. Эта тема отлично подходит для тех, кто хочет продавать хлебобулочные изделия онлайн. Эта тема отличается утонченным дизайном, а также множеством полезных функций, которые помогут вам продавать свои товары. Он адаптивный и включает загрузчик, который отлично смотрится на всех устройствах. Он также имеет короткие коды. Его может использовать любой повар или пекарь. Бейкер — идеальная тема для всех любителей сладкого. Эта тема современная и имеет много отличных домашних страниц. Он также включает в себя замечательную коллекцию внутренних страниц. Демо: https://www.vwthemes.net/vw-bakery-blocks/"
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr "Главная"
+
+#: patterns/product-sidebar.php:21
+msgid "Categories"
+msgstr "Рубрики"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "7"
+msgstr "7"
+
+#: patterns/product-sidebar.php:29
+msgid "Active filters"
+msgstr "Активные фильтры"
+
+#: styles/green.json styles/lite-pink.json styles/orange.json
+#: styles/purple.json styles/yellow-color.json theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Фон"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Bad Script"
+msgstr "Bad Script"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Barlow Condensed"
+msgstr "Barlow Condensed"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr "Основной текст"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Button color Hover"
+msgstr "Цвет кнопки при наведении"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr "Заголовок содержимого"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr "От диагонального первичного к переднему плану"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr "От диагонального вторичного к фоновому"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background left"
+msgstr "От диагонального вторичного к фоновому, слева"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background right"
+msgstr "От диагонального вторичного к фоновому, справа"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large (Recent Post Title)"
+msgstr "Очень большой (заголовок недавней записи)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Очень маленький"
+
+#: patterns/product-sidebar.php:49
+msgid "Filter by attribute"
+msgstr "Фильтр по атрибутам"
+
+#: patterns/product-sidebar.php:11
+msgid "Filter by price"
+msgstr "Фильтр по цене"
+
+#: patterns/product-sidebar.php:59
+msgid "Filter by rating"
+msgstr "Фильтр по рейтингу"
+
+#: styles/green.json styles/lite-pink.json styles/orange.json
+#: styles/purple.json styles/yellow-color.json theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Передний план"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr "Передний план и фон"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and secondary"
+msgstr "Передний план и вторичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and tertiary"
+msgstr "Передний план и третичный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr "Огромный (отображение)"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Большой"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato"
+msgstr "Lato"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "League Spartan"
+msgstr "League Spartan"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Marhey"
+msgstr "Marhey"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Средний"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Обычный"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: styles/green.json styles/lite-pink.json styles/orange.json
+#: styles/purple.json styles/yellow-color.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Основной"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr "Первичный и фоновый"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr "Первичный и вторичный"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr "Первичный и третичный"
+
+#: patterns/product-sidebar.php
+msgctxt "Pattern title"
+msgid "Product Sidebar"
+msgstr "Область виджетов товара"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Raleway"
+msgstr "Raleway"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto Flex"
+msgstr "Roboto Flex"
+
+#: styles/green.json styles/lite-pink.json styles/orange.json
+#: styles/purple.json styles/yellow-color.json theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary Background"
+msgstr "Вторичный фон"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary background dark to Secondary  background"
+msgstr "От вторичного темного к вторичному фону"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary background to Secondary dark background"
+msgstr "От вторичного к вторичному темному фону"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary dark Background"
+msgstr "Вторичный тёмный фон"
+
+#: patterns/shop-title-cover.php:11
+msgid "Shop"
+msgstr "Магазин"
+
+#: patterns/shop-title-cover.php
+msgctxt "Pattern title"
+msgid "Shop Title Cover"
+msgstr "Обложка названия магазина"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Маленький"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Крошечный"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr "Верхний заголовок"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical background to secondary"
+msgstr "От вертикального фонового к вторичному"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "ABeeZee"
+msgstr "ABeeZee"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Merienda"
+msgstr "Merienda"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr "Вертикальный от вторичного к третичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr "Вертикальный от вторичного к фону"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr "Диагональный от третичного к фону"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr "Диагональный от фонового к третичному"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr "Диагональный от фонового к вторичному"
+
+#: patterns/comment-section-1.php
+msgctxt "Pattern title"
+msgid "Comment Section 1"
+msgstr "Раздел комментариев 1"
+
+#: patterns/cover-with-post-title.php
+msgctxt "Pattern title"
+msgid "Cover With Post Title"
+msgstr "Обложка с заголовком записи"
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr "Подвал по умолчанию"
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr "Заголовок по умолчанию"
+
+#: patterns/hidden-404.php
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr "Скрытая 404"
+
+#: patterns/home-banner.php
+msgctxt "Pattern title"
+msgid "Home Banner"
+msgstr "Баннер главной страницы"
+
+#: patterns/post-content-1.php
+msgctxt "Pattern title"
+msgid "Post Content 1"
+msgstr "Содержимое записи 1"
+
+#: patterns/post-listing-four-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Four Column"
+msgstr "Листинг записи четыре столбца"
+
+#: patterns/post-listing-single-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Single Column"
+msgstr "Листинг записи отдельного столбца"
+
+#: patterns/post-listing-three-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Three Column"
+msgstr "Листинг записи три столбца"
+
+#: patterns/post-listing-two-column.php
+msgctxt "Pattern title"
+msgid "Post Listing Two Column"
+msgstr "Листинг записи два столбца"
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr "Основная область виджетов"
+
+#: patterns/theme-button.php
+msgctxt "Pattern title"
+msgid "Theme Button"
+msgstr "Кнопка темы"
+
+#: inc/core/theme-info.php:129
+msgid "Premium Themes"
+msgstr "Премиум темы"
+
+#: inc/core/theme-info.php:139
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: inc/core/theme-info.php:159
+msgid "Template Pages"
+msgstr "Шаблон страниц"
+
+#: inc/core/theme-info.php:160
+msgid "3"
+msgstr "3"
+
+#: inc/core/theme-info.php:161
+msgid "6"
+msgstr "6"
+
+#: inc/core/theme-info.php:164
+msgid "Home Page Template"
+msgstr "Шаблон главной страницы"
+
+#: inc/core/theme-info.php:165 inc/core/theme-info.php:166
+#: inc/core/theme-info.php:176
+msgid "1"
+msgstr "1"
+
+#: inc/core/theme-info.php:174
+msgid "Contact us Page Template"
+msgstr "Шаблон страницы Свяжитесь с нами"
+
+#: inc/core/theme-info.php:179
+msgid "Blog Templates & Layout"
+msgstr "Шаблоны и макеты блога"
+
+#: inc/core/theme-info.php:181
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3 (во всю ширину/левая/правая область виджетов)"
+
+#: inc/core/theme-info.php:184
+msgid "Page Templates & Layout"
+msgstr "Шаблон и макет страницы"
+
+#: inc/core/theme-info.php:186
+msgid "2(Left/Right Sidebar)"
+msgstr "2 (левая/правая область виджетов)"
+
+#: inc/core/theme-info.php:199
+msgid "Full Documentation"
+msgstr "Полная документация"
+
+#: inc/core/theme-info.php:204
+msgid "Latest WordPress Compatibility"
+msgstr "Совместимость с последними версиями WordPress"
+
+#: inc/core/theme-info.php:209
+msgid "Woo-Commerce Compatibility"
+msgstr "Совместимость с WooCommerce"
+
+#: inc/core/theme-info.php:214
+msgid "Support 3rd Party Plugins"
+msgstr "Поддержка плагинов сторонних разработчиков"
+
+#: inc/core/theme-info.php:219
+msgid "Secure and Optimized Code"
+msgstr "Безопасный и оптимизированый код"
+
+#: inc/core/theme-info.php:224
+msgid "Exclusive Functionalities"
+msgstr "Эксклюзивные функции"
+
+#: inc/core/theme-info.php:229
+msgid "Section Enable / Disable"
+msgstr "Раздел вкл/откл"
+
+#: inc/core/theme-info.php:234
+msgid "Section Google Font Choices"
+msgstr "Раздел Выбор шрифтов Google"
+
+#: inc/core/theme-info.php:244
+msgid "Simple & Mega Menu Option"
+msgstr "Настройки отдельного и мега меню"
+
+#: inc/core/theme-info.php:249
+msgid "Support to add custom CSS / JS "
+msgstr "Поддержка добавления пользовательских CSS / JS "
+
+#: inc/core/theme-info.php:254
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: inc/core/theme-info.php:259
+msgid "Custom Background, Colors, Header, Logo & Menu"
+msgstr "Пользовательский фон, цвета, заголовок, логотип и меню"
+
+#: inc/core/theme-info.php:264
+msgid "Premium Membership"
+msgstr "Премиум членство"
+
+#: inc/core/theme-info.php:269
+msgid "Budget Friendly Value"
+msgstr "Бюджетная дружеская стоимость"
+
+#: inc/core/theme-info.php:274
+msgid "Priority Error Fixing"
+msgstr "Исправление приоритетной ошибки"
+
+#: inc/core/theme-info.php:279
+msgid "Custom Feature Addition"
+msgstr "Добавление пользовательской функции"
+
+#: inc/core/theme-info.php:284
+msgid "All Access Theme Pass"
+msgstr "Все темы доступны для перевода"
+
+#: inc/core/theme-info.php:289
+msgid "Seamless Customer Support"
+msgstr "Полная поддержка клиентов"
+
+#: inc/core/theme-info.php:121
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/core/theme-info.php:128
+msgid "Free Themes"
+msgstr "Бесплатные темы"
+
+#: inc/core/theme-info.php:41
+msgid "Use Coupon"
+msgstr "Использовать купон"
+
+#: inc/core/theme-info.php:41
+msgid "vwpro20"
+msgstr "vwpro20"
+
+#: inc/core/theme-info.php:169
+msgid "Theme sections"
+msgstr "Разделы темы"
+
+#: inc/core/theme-info.php:170
+msgid "2"
+msgstr "2"
+
+#: inc/core/theme-info.php:189
+msgid "Section Reordering"
+msgstr "Переупорядочивание разделов"
+
+#: inc/core/theme-info.php:194
+msgid "Demo Importer"
+msgstr "Импортер демонстраций"
+
+#: inc/core/theme-info.php:171
+msgid "10"
+msgstr "10"
+
+#: inc/core/theme-info.php:149
+msgid "Banner Settings"
+msgstr "Настройки баннера"
+
+#: inc/core/theme-info.php:155
+msgid "Banner"
+msgstr "Баннер"
+
+#: inc/core/theme-info.php:134
+msgid "Easy Setup"
+msgstr "Простая установка"
+
+#: inc/core/theme-info.php:127
+msgid "Features"
+msgstr "Функции"
+
+#: inc/core/theme-info.php:154
+msgid "Number of Slider/ Banner"
+msgstr "Количество слайдеров/баннеров"
+
+#: inc/core/theme-info.php:144
+msgid "SEO Friendly"
+msgstr "Дружелюбный к SEO"
+
+#: inc/core/theme-info.php:156
+msgid "Unlimited Slides"
+msgstr "Неограниченные слайды"
+
+#: inc/core/theme-info.php:88
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#: inc/core/theme-info.php:89
+msgid "If you need any assistance regarding setting up and configuring the Theme, our documentation is there."
+msgstr "Если вам нужна помощь в установке и настройке темы, тут наша документация."
+
+#: inc/core/theme-info.php:91
+msgid "Free Theme Documentation"
+msgstr "Бесплатная документация темы"
+
+#: functions.php:164
+msgid "https://preview.vwthemesdemo.com/docs/free-vw-bakery-blocks/"
+msgstr "https://preview.vwthemesdemo.com/docs/free-vw-bakery-blocks/"
+
+#: inc/customizer.php:30
+msgid "Animation"
+msgstr "Анимация"
+
+#: inc/customizer.php:41
+msgid "Animation "
+msgstr "Анимация "
+
+#: inc/customizer.php:42
+msgid "Here you can disable overall site animation effect"
+msgstr "Здесь можно отключить общий эффект анимации сайта"
+
+#: inc/customizer.php:23
+msgid "Homepage Settings"
+msgstr "Настройки главной страницы"
+
+#: inc/patterns/footer-default.php:81 patterns/footer-default.php:88
+msgid "By VWThemes"
+msgstr "От VWThemes"
+
+#: inc/patterns/footer-default.php:24 patterns/footer-default.php:31
+msgid "Get in Touch"
+msgstr "Свяжитесь с нами"
+
+#: functions.php:79 inc/patterns/home-banner.php:23
+#: inc/patterns/theme-button.php:3 patterns/home-banner.php:30
+#: patterns/theme-button.php:10
+msgid "GET STARTED"
+msgstr "НАЧАЛО РАБОТЫ"
+
+#: inc/core/theme-info.php:239 inc/patterns/footer-default.php:46
+#: inc/patterns/primary-sidebar.php:36 patterns/footer-default.php:53
+#: patterns/primary-sidebar.php:44
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/patterns/primary-sidebar.php:28 patterns/primary-sidebar.php:36
+msgid "Tags"
+msgstr "Метки"
+
+#: inc/patterns/contact-section.php:4 patterns/contact-section.php:11
+msgid "Opening Times:- Monday - Friday: 8 AM - 8 PM Saturday: 9 AM - 4 PM Sunday: Closed"
+msgstr ""
+"Время работы: \n"
+"- Понедельник - Пятница: с 8 утра до 8 вечера \n"
+"- Суббота: с 9 утра до 4 вечера \n"
+"- Воскресенье: закрыто"
+
+#: inc/patterns/primary-sidebar.php:76 patterns/primary-sidebar.php:84
+msgid "Social Media"
+msgstr "Соцсети"
+
+#: inc/patterns/hidden-404.php:14 patterns/hidden-404.php:21
+msgid "This page could not be found. Maybe try a search?"
+msgstr "Эта страница не найдена. Попробуйте поиск?"
+
+#: inc/patterns/home-banner.php:10 patterns/home-banner.php:17
+msgid "Welcome To The Bakery"
+msgstr "Добро пожаловать в пекарню"
+
+#: inc/patterns/contact-section.php:42 patterns/contact-section.php:49
+msgid "bakery@gmail.com"
+msgstr "bakery@gmail.com"
+
+#: inc/patterns/contact-section.php:22 patterns/contact-section.php:29
+msgid "+123 456 7890"
+msgstr "+123 456 7890"
+
+#: inc/patterns/primary-sidebar.php:12 patterns/primary-sidebar.php:20
+msgid "Archive"
+msgstr "Архив"
+
+#: inc/patterns/footer-default.php:10 patterns/footer-default.php:17
+msgid "Bakery was founded in 1947 by John and Jessy Smith. They baked delicious bread and cakes for the shop, with Jessy serving the customers. Later on, their son with his wife Natalia joined and began delivering bread to the neighbouring places."
+msgstr "Пекарня была основана в 1947 году Джоном и Джесси Смит. Они испекли вкусный хлеб и пирожные для магазина, а Джесси обслуживала покупателей. Позже к ним присоединился их сын с женой Натальей и стали развозить хлеб по окрестностям."
+
+#: inc/patterns/contact-section.php:10 patterns/contact-section.php:17
+msgid "Call Us For Know Todays Menu"
+msgstr "Позвоните нам, чтобы узнать меню на сегодня"
+
+#: inc/patterns/contact-section.php:51 inc/patterns/home-banner.php:27
+#: inc/patterns/theme-button.php:7 patterns/contact-section.php:58
+#: patterns/home-banner.php:34 patterns/theme-button.php:14
+msgid "CONTACT US"
+msgstr "СВЯЖИТЕСЬ С НАМИ"
+
+#: inc/patterns/footer-default.php:16 patterns/footer-default.php:23
+msgid "Quick Links"
+msgstr "Быстрые ссылки"
+
+#: inc/patterns/header-default.php:5 patterns/header-default.php:12
+msgid "Location:"
+msgstr "Местоположение:"
+
+#: inc/patterns/header-default.php:5 patterns/header-default.php:12
+msgid "Your city, Your location"
+msgstr "Ваш город, Ваше местоположение"
+
+#: inc/patterns/home-banner.php:18 patterns/home-banner.php:25
+msgid "We are a unique bakery of square confections. We take pride in using natural ingredients and baking our cupcakes, cakes, and desserts."
+msgstr "Мы являемся уникальной пекарней квадратных кондитерских изделий. Мы гордимся тем, что используем натуральные ингредиенты и выпекаем наши кексы, торты и десерты."
+
+#: inc/patterns/primary-sidebar.php:4 patterns/primary-sidebar.php:12
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/patterns/primary-sidebar.php:68 patterns/primary-sidebar.php:76
+msgid "Recent Posts"
+msgstr "Свежие записи"
+
+#: inc/patterns/services-one.php:3 patterns/services-one.php:10
+msgid "Services We Provide"
+msgstr "Услуги, которые мы предоставляем"
+
+#: inc/patterns/services-one.php:45 inc/patterns/services-one.php:103
+#: patterns/services-one.php:52 patterns/services-one.php:110
+msgid "Desserts"
+msgstr "Десерты"
+
+#: inc/patterns/services-one.php:59 inc/patterns/services-one.php:117
+#: patterns/services-one.php:66 patterns/services-one.php:124
+msgid "Home Delivery"
+msgstr "Доставка на дом"
+
+#: inc/core/theme-info.php:100
+msgid "Premium Theme Information"
+msgstr "Информация о премиум теме"
+
+#: inc/core/theme-info.php:108
+msgid "Live Demo"
+msgstr "Демонстрация в реальном времени"
+
+#: inc/core/theme-info.php:109
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: inc/core/theme-info.php:110
+msgid "Pro Documentation"
+msgstr "Документация Pro"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Миним. необходимая версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#: inc/block-patterns.php:95 inc/patterns/primary-sidebar.php:20
+#: patterns/primary-sidebar.php:28
+msgid "Pages"
+msgstr "Страницы"
+
+#: inc/block-patterns.php:99
+msgid "Services"
+msgstr "Услуги"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующих плагинов: %1$s."
+msgstr[2] "Эта тема требует следующих плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться в консоль"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активный"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#: inc/core/theme-info.php:74
+msgid "Having Trouble, Need Support?"
+msgstr "Проблемы, нужна в поддержка?"
+
+#: inc/core/theme-info.php:64
+msgid "Lite Theme Information"
+msgstr "Информация об облегченной теме"
+
+#: inc/core/theme-info.php:75
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr "Наша целеустремленная команда хорошо подготовлена, чтобы помочь вам в случае вопросов и сомнений относительно нашей темы."
+
+#: inc/core/theme-info.php:84
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: inc/core/theme-info.php:81
+msgid "Reviews & Testimonials"
+msgstr "Обзоры и отзывы"
+
+#: inc/core/theme-info.php:30
+msgid "All our WordPress themes are modern, minimalist, 100% responsive, seo-friendly,feature-rich, and multipurpose that best suit designers, bloggers and other professionals who are working in the creative fields."
+msgstr "Все наши WordPress темы являются современными, минималистичными, 100% адаптивными, подготовлеными к seo, с богатым функционалом и многофункциональными, которые идеально подойдут дизайнерам, блоггерам и другим профессионалам, которые работают в области творчества."
+
+#: inc/core/theme-info.php:77
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: functions.php:160
+msgid "https://wordpress.org/support/theme/vw-bakery-blocks/"
+msgstr "https://wordpress.org/support/theme/vw-bakery-blocks/"
+
+#: functions.php:161
+msgid "https://wordpress.org/support/theme/vw-bakery-blocks/reviews/"
+msgstr "https://wordpress.org/support/theme/vw-bakery-blocks/reviews/"
+
+#: functions.php:162
+msgid "https://www.vwthemes.net/vw-bakery-blocks/"
+msgstr "https://www.vwthemes.net/vw-bakery-blocks/"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:103
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: inc/block-patterns.php:97
+msgid "Sidebars"
+msgstr "Области виджетов"
+
+#: inc/section-pro/customizer.php:73
+msgid "VW Bakery Blocks Pro"
+msgstr "VW Bakery Blocks Pro"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/block-patterns.php:93
+msgid "Footers"
+msgstr "Подвалы"
+
+#: inc/core/theme-info.php:56
+msgid "Free Setup"
+msgstr "Бесплатная установка"
+
+#: inc/block-patterns.php:98
+msgid "Banner Sections"
+msgstr "Разделы Баннер"
+
+#: inc/core/theme-info.php:7
+msgid "Bakery Blocks Theme"
+msgstr "Тема Bakery Blocks"
+
+#: inc/core/theme-info.php:82
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr "Все свойства и аспекты этой WordPress темы феноменальны. Я бы рекомендовал эту тему всем."
+
+#: inc/tgm/tgm.php:10
+msgid "Ibtana - WordPress Website Builder"
+msgstr "Ibtana - WordPress Website Builder"
+
+#: inc/core/theme-info.php:66
+msgid "Bakery Theme is a clean and beautiful WordPress theme that can be used for any kind of food blog, bakery, boxed, bread or cake, as well as eCommerce stores. The theme comes with many options and features that allow you to easily customize it to suit your needs. Your site will look amazing on any device, thanks to its Gutenberg plugin. The theme also features interactive elements and customizable options, as well as a beautiful testimonial section. This theme is perfect for creating a bakery blog or bakery shop. This theme is great for anyone who wants to sell baking products online. This theme features a sophisticated design, as well as many useful features that will help you to sell your products. It is responsive and includes bootstrap, which looks great on all devices. It also has short codes. You can use it by any chef or baker. Baker is the perfect theme for all you sweet lovers. This theme is modern and has many great homepages. It also includes a wonderful collection of inner pages."
+msgstr "Bakery Theme — это чистая и красивая тема WordPress, которую можно использовать для любого блога о еде, пекарни, коробки, хлеба или торта, а также для магазинов электронной коммерции. Тема поставляется с множеством опций и функций, которые позволяют легко настроить ее в соответствии с вашими потребностями. Ваш сайт будет выглядеть потрясающе на любом устройстве благодаря плагину Gutenberg. Тема также содержит интерактивные элементы и настраиваемые параметры, а также красивый раздел отзывов. Эта тема идеально подходит для создания блога о пекарне или пекарни. Эта тема отлично подходит для тех, кто хочет продавать хлебобулочные изделия онлайн. Эта тема отличается утонченным дизайном, а также множеством полезных функций, которые помогут вам продавать свои товары. Он адаптивный и включает загрузчик, который отлично смотрится на всех устройствах. Он также имеет короткие коды. Его может использовать любой повар или пекарь. Бейкер — идеальная тема для всех любителей сладкого. Эта тема современная и имеет много отличных домашних страниц. Он также включает в себя замечательную коллекцию внутренних страниц."
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установить требуемые плагины"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Требуется"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установить %2$s"
+
+#: functions.php:60
+msgid "Primary Navigation"
+msgstr "Основная навигация"
+
+#: inc/block-patterns.php:33
+msgid "Default header"
+msgstr "Заголовок по умолчанию"
+
+#: inc/block-patterns.php:38
+msgid "Default footer"
+msgstr "Подвал по умолчанию"
+
+#: inc/block-patterns.php:43
+msgid "Home Banner"
+msgstr "Баннер главной страницы"
+
+#: inc/block-patterns.php:47 inc/block-patterns.php:100
+msgid "Contact Section"
+msgstr "Раздел Контакты"
+
+#: inc/block-patterns.php:51
+msgid "Service One"
+msgstr "Услуга один"
+
+#: inc/block-patterns.php:55
+msgid "Primary Sidebar"
+msgstr "Основная область виджетов"
+
+#: inc/block-patterns.php:87
+msgid "Theme Button"
+msgstr "Кнопка темы"
+
+#: inc/block-patterns.php:94
+msgid "Headers"
+msgstr "Заголовки"
+
+#: inc/block-patterns.php:96
+msgid "Query"
+msgstr "Запрос"
+
+#: inc/block-patterns.php:102
+msgid "Theme Buttons"
+msgstr "Кнопки темы"
+
+#: inc/core/theme-info.php:29
+msgid "Welcome to VW Bakery Blocks Theme"
+msgstr "Добро пожаловать в тему VW Bakery Blocks"
+
+#: inc/core/theme-info.php:70
+msgid "Visit Your Site"
+msgstr "Просмотрите свой сайт"
+
+#: inc/core/theme-info.php:103
+msgid "This VW Gutenberg Cake WordPress Theme was created for bakeries, pastry shops, restaurants, or other sweet shop websites. This theme is among the best in the collection of VW WordPress Themes. It is suitable for the job. Our WordPress theme is professional, considerate, and easy to use. This theme can effectively showcase your products, professionalism, testimonials, and other important information. It can be used in any responsive and cross-browser compatibility. We are available 24 hours a day to assist you with any problem. The theme is perfect for any dessert business and pays attention to sweet-loving details. It can also be used for other types of businesses as it is a multipurpose WordPress theme. The theme&#39;s entire structure is designed to give maximum exposure to every detail and element of your business. Our specialists have spent many hours working hard to create the best theme possible."
+msgstr "Эта тема VW Gutenberg Cake WordPress Theme была создана для пекарен, кондитерских, ресторанов и других сайтов, посвященных сладостям. Эта тема является одной из лучших в коллекции тем VW WordPress Themes. Она подходит для работы. Наша тема WordPress профессиональна, внимательна и проста в использовании. Эта тема может эффективно демонстрировать ваши продукты, профессионализм, отзывы и другую важную информацию. Она может быть использована в любом отзывчивом и кроссбраузерном варианте. Мы доступны 24 часа в сутки, чтобы помочь вам с любой проблемой. Тема идеально подходит для любого десертного бизнеса и обращает внимание на детали, связанные со сладостями. Она также может быть использована для других видов бизнеса, поскольку является многоцелевой темой WordPress. Вся структура темы разработана таким образом, чтобы максимально раскрыть каждую деталь и элемент вашего бизнеса. Наши специалисты провели много часов в работе, чтобы создать лучшую тему из всех возможных."
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "Пустой"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Title / Feature Image)"
+msgstr "Страница (без названия / с изображением)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Left)"
+msgstr "Страница блога (область виджетов слева)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Sidebar on Right)"
+msgstr "Страница блога (область виджетов справа)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Left)"
+msgstr "Отдельная запись (область виджетов слева)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Заголовок"
+
+#: functions.php:163
+msgid "https://preview.vwthemesdemo.com/docs/vw-bakery-blocks-pro/"
+msgstr "https://preview.vwthemesdemo.com/docs/vw-bakery-blocks-pro/"
+
+#: inc/section-pro/customizer.php:74
+msgid "Upgrade Pro"
+msgstr "Обновить до Pro"
+
+#: inc/core/theme-info.php:43 inc/core/theme-info.php:296
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: inc/core/theme-info.php:57
+msgid "Get Premium"
+msgstr "Получить Премиум"
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Для этой темы рекомендуется следующий плагин: %1$s."
+msgstr[1] "Для этой темы рекомендуются следующие плагины: %1$s."
+msgstr[2] "Для этой темы рекомендуются следующие плагины: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий требуемый плагин в настоящее время не активен: %1$s."
+msgstr[1] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+msgstr[2] "Следующие требуемые плагины в настоящее время не активны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующий плагин до последней версии: %1$s."
+msgstr[1] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующих плагина до последней версии: %1$s."
+msgstr[2] "Для обеспечения максимальной совместимости с данной темой необходимо обновить следующих плагинов до последней версии: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующих рекомендуемых плагина в настоящее время неактивны: %1$s."
+msgstr[2] "Следующих рекомендуемых плагина в настоящее время неактивны: %1$s."
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующих плагина были успешно активированы:"
+msgstr[2] "Следующих плагинов были успешно активированы:"
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины успешно установлены и активированы. %1$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к админу этого сайта."
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[1] "Для установки <span class=\"count\">(%s)</span>"
+msgstr[2] "Для установки <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступно обновление <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновлений <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[1] "Для активации <span class=\"count\">(%s)</span>"
+msgstr[2] "Для активации <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестна"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновить %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s успешно установлен и активирован."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были завершены."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s успешно установлен."
+
+#: inc/block-patterns.php:59
+msgid "404 content"
+msgstr "404 Содержимое"
+
+#: inc/block-patterns.php:83 inc/block-patterns.php:101
+msgid "Cover With Post Title"
+msgstr "Обложка с заголовком записи"
+
+#: inc/core/theme-info.php:69
+msgid "Edit Your Site"
+msgstr "Отредактируйте ваш сайт"
+
+#: inc/block-patterns.php:78
+msgid "Post Four Column"
+msgstr "Запись четыре столбца"
+
+#: inc/block-patterns.php:63
+msgid "Post Single Column"
+msgstr "Запись отдельного столбца"
+
+#: inc/block-patterns.php:73
+msgid "Post Three Column"
+msgstr "Запись три столбца"
+
+#: inc/block-patterns.php:68
+msgid "Post Two Column"
+msgstr "Запись два столбца"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr "Отдельная страница (область виджетов слева)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr "Отдельная страница (область виджетов справа)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Right)"
+msgstr "Отдельная запись (область виджетов справа)"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "VWThemes"
+msgstr "VWThemes"
